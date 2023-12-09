@@ -1,4 +1,5 @@
-![alt text](http://url/to/[img.png](https://raw.githubusercontent.com/muddasirfaiyaj66/muddasirfaiyaj66/main/Asset/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png))
+![LinkedIn Banner](https://raw.githubusercontent.com/muddasirfaiyaj66/muddasirfaiyaj66/main/Asset/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
+
 
 
 
