@@ -3,7 +3,7 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Wave Animation" width="30"/> I'm Muddasir Faiyaj
 
 ## Web Developer
-Passionate Computer Science student at United International University, specializing in MERN stack web development. Proficient in JavaScript, React, Node.js, Express, and MongoDB. Familiar with various front-end frameworks and libraries like React.js, Next.js, and Material UI. Experience in building full-stack web applications using the MERN stack. Actively learning and exploring new technologies within the web development landscape.
+Passionate Computer Science student at United International University, specializing in MERN stack web development. Proficient in JavaScript, React, Node.js, Express, and MongoDB. Familiar with various front-end frameworks and libraries like React.js, and Material UI. Experience in building full-stack web applications using the MERN stack. Actively learning and exploring new technologies within the web development landscape.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 
