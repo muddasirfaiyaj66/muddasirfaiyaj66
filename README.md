@@ -12,7 +12,7 @@
    <a href="mailto:muddasirfaiyaj66@gmail.com">Email</a> •
    <a href="https://www.linkedin.com/in/muddasir-faiyaj/">LinkedIn</a> •
    <a href="https://github.com/muddasirfaiyaj66">GitHub</a> •
-   <a href="https://muddasir-faiyaj.web.app/">Portfolio</a>
+   <a href="https://muddasirfaiyaj.dev/">Portfolio</a>
 </p>
 
 ---
