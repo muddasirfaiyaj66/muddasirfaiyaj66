@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://muddasirfaiyaj.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=00C2A8&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=80&lines=Building+web+systems+%26+ROV+software;MATE+ROV+2026+%E2%80%94+1st+in+Asia+%C2%B7+26th+Worldwide;Next.js+%C2%B7+Node.js+%C2%B7+OpenCV+%C2%B7+Embedded" alt="Typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=00C2A8&center=true&vCenter=true&multiline=true&repeat=true&width=740&height=60&lines=Building+web+systems+%26+ROV+software;Next.js+%C2%B7+Node.js+%C2%B7+OpenCV+%C2%B7+Embedded" alt="Typing animation"/>
   </a>
 </div>
 
@@ -55,7 +55,7 @@ Recently led **Team Bangladesh's Explorer-class ROV software** to a **26th-place
 
 | | Achievement |
 | :---: | --- |
-| 🥇 | **MATE ROV 2026** — Explorer Class · Newfoundland, Canada · **1st Bangladesh · 1st Asia · 26th Worldwide** |
+| 🥇 | **MATE ROV 2026** — Explorer Class · Newfoundland, Canada · **1st Bangladesh · 5st Asia · 26th Worldwide** |
 | 🌏 | **MATE ROV 2025** — Pioneer Class · Alpena, Michigan · **5th Worldwide · 1st Asia** |
 | 📄 | **Technical Documentation Champion** — MATE ROV 2025 |
 | 🏆 | **Champion (Offline Track)** — Build with Gemma @ Bangladesh Hybrid Hackathon '26 |
@@ -106,21 +106,6 @@ Recently led **Team Bangladesh's Explorer-class ROV software** to a **26th-place
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Stack | Links |
-| :---: | :---: | :---: |
-| **UIU Mariner Website** | Next.js · TS · Node · MongoDB | [Portfolio](https://muddasirfaiyaj.dev/) |
-| **UIU APP Forum Recruitment** | React · Tailwind · Express · MongoDB | [Live](https://uiuappf-recruitment.netlify.app/) |
-| **UIU CSE Fest 2025** | React · Node · Express · MongoDB | [Live](https://csefest.uiu.ac.bd/) |
-| **E-Certificate Generator** | Next.js · TypeScript · Tailwind | [Live](https://e-certificate-generator-muddasirfaiyaj.vercel.app/) |
-| **QuickFinance** | React · Express · MongoDB · SSLCommerz | [Live](https://quickfinance-cc0c9.web.app/) |
-
-</div>
-
----
 
 ## Education
 
