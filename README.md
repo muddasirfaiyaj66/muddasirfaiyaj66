@@ -5,7 +5,7 @@
 ============================================================ -->
 
 <a href="https://muddasirfaiyaj.dev/">
-  <img src="https://raw.githubusercontent.com/muddasirfaiyaj66/muddasirfaiyaj66/main/Asset/profile-banner-3d.png" alt="Muddasir Faiyaj — Full-Stack Developer & Robotics Software Engineer" width="100%"/>
+  <img src="https://cdn.jsdelivr.net/gh/muddasirfaiyaj66/muddasirfaiyaj66@main/Asset/profile-banner-3d.png" alt="Muddasir Faiyaj — Full-Stack Developer & Robotics Software Engineer" width="100%"/>
 </a>
 
 <br/>
