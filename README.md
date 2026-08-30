@@ -46,10 +46,10 @@ Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newf
 | | |
 | :---: | --- |
 | 🥇 | **MATE ROV 2026** — Explorer · Canada · **1st Bangladesh · 5th Asia · 26th Worldwide** |
-| 🌏 | **MATE ROV 2025** — Pioneer · USA · **5th Worldwide · 1st Asia** |
+| 🌏 | **MATE ROV 2025** — Pioneer · USA · **5th Worldwide · 1st Asia** . **1st Bangladesh** |
 | 📄 | **Technical Documentation Champion** — MATE ROV 2025 |
 | 🏆 | **Champion (Offline)** — Build with Gemma @ Bangladesh Hackathon '26 |
-| 🔟 | **Top 10** — Technovation '25 · UIU CSE Project Show awards |
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2A8&height=2&section=header" width="100%" alt=""/>
 
@@ -78,7 +78,7 @@ Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newf
   · Team website — Next.js, TypeScript, Node.js, MongoDB
   · Custom ROV control software — configurable 6-DOF
   · Software architecture for Explorer-class MATE ROV
-  · On-site systems ops — MATE ROV 2025 & 2026 (Canada)
+  · On-site systems ops — MATE ROV 2026 (Canada)
 
 + Head of Software & Innovation · UIU APP Forum · Sept 2025 — Present
   · Recruitment automation — JWT + role-based dashboards
@@ -90,17 +90,6 @@ Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newf
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2A8&height=2&section=header" width="100%" alt=""/>
 
-## Projects
-
-| Project | Stack | |
-| --- | --- | --- |
-| **UIU Mariner Website** | Next.js · TS · Node · MongoDB | [Portfolio](https://muddasirfaiyaj.dev/) |
-| **APP Forum Recruitment** | React · Tailwind · Express · MongoDB | [Live](https://uiuappf-recruitment.netlify.app/) |
-| **UIU CSE Fest 2025** | React · Node · Express · MongoDB | [Live](https://csefest.uiu.ac.bd/) |
-| **E-Certificate Generator** | Next.js · TypeScript · Tailwind | [Live](https://e-certificate-generator-muddasirfaiyaj.vercel.app/) |
-| **QuickFinance** | React · Express · MongoDB · SSLCommerz | [Live](https://quickfinance-cc0c9.web.app/) |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00C2A8&height=2&section=header" width="100%" alt=""/>
 
 ## GitHub Pulse
 
@@ -144,6 +133,31 @@ Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newf
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C2A8&height=2&section=header" width="100%" alt=""/>
+
+## Contribution Snake
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061018,50:0a2a38,100:00c2a8&height=140&section=footer" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1200&color=00C2A8&center=true&vCenter=true&width=520&height=28&lines=Thanks+for+stopping+by+%E2%80%94+let's+build+something" alt="Footer typing"/>
+</div>
+
+<br/>
+
+<!-- Dark / light snake — auto-updated daily by GitHub Action -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/muddasirfaiyaj66/muddasirfaiyaj66@main/Asset/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/muddasirfaiyaj66/muddasirfaiyaj66@main/Asset/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" src="https://cdn.jsdelivr.net/gh/muddasirfaiyaj66/muddasirfaiyaj66@main/Asset/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061018,40:0a2a38,100:00c2a8&height=160&section=footer&text=Let's%20build%20something%20great&fontSize=22&fontColor=E8F4F2&fontAlignY=70&desc=muddasirfaiyaj.dev&descSize=14&descAlignY=88&animation=fadeIn" alt="Fancy footer wave"/>
+</div>
+
+<div align="center">
+  <sub>⚡ Profile auto-updates · Snake refreshes daily · <a href="https://muddasirfaiyaj.dev/">Portfolio</a></sub>
 </div>
