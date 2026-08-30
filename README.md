@@ -158,6 +158,3 @@ Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newf
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061018,40:0a2a38,100:00c2a8&height=160&section=footer&text=Let's%20build%20something%20great&fontSize=22&fontColor=E8F4F2&fontAlignY=70&desc=muddasirfaiyaj.dev&descSize=14&descAlignY=88&animation=fadeIn" alt="Fancy footer wave"/>
 </div>
 
-<div align="center">
-  <sub>⚡ Profile auto-updates · Snake refreshes daily · <a href="https://muddasirfaiyaj.dev/">Portfolio</a></sub>
-</div>
