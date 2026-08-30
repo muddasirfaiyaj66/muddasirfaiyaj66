@@ -31,7 +31,7 @@
 
 I ship production web platforms with **React · Next.js · Node.js · MongoDB**, and lead embedded / computer-vision software for competitive underwater robotics.
 
-Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newfoundland, Canada) — **1st in Bangladesh & Asia · 26th Worldwide**.
+Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newfoundland, Canada) — **1st in Bangladesh · 5th in Asia · 26th Worldwide**.
 
 | | |
 | --- | --- |
@@ -45,7 +45,7 @@ Led **Team Bangladesh's Explorer-class ROV software** at **MATE ROV 2026** (Newf
 
 | | |
 | :---: | --- |
-| 🥇 | **MATE ROV 2026** — Explorer · Canada · **1st Bangladesh · 1st Asia · 26th Worldwide** |
+| 🥇 | **MATE ROV 2026** — Explorer · Canada · **1st Bangladesh · 5th Asia · 26th Worldwide** |
 | 🌏 | **MATE ROV 2025** — Pioneer · USA · **5th Worldwide · 1st Asia** |
 | 📄 | **Technical Documentation Champion** — MATE ROV 2025 |
 | 🏆 | **Champion (Offline)** — Build with Gemma @ Bangladesh Hackathon '26 |
