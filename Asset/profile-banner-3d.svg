@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280" role="img" aria-labelledby="title desc">
+  <title id="title">Muddasir Faiyaj  Full-Stack &amp; Robotics</title>
+  <desc id="desc">Isometric deep-tech banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#061018"/>
+      <stop offset="45%" stop-color="#0a2433"/>
+      <stop offset="100%" stop-color="#0d3d42"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00e0b8"/>
+      <stop offset="100%" stop-color="#00a8c2"/>
+    </linearGradient>
+    <linearGradient id="faceTop" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a4a55"/>
+      <stop offset="100%" stop-color="#0f3038"/>
+    </linearGradient>
+    <linearGradient id="faceLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0c2a32"/>
+      <stop offset="100%" stop-color="#082028"/>
+    </linearGradient>
+    <linearGradient id="faceRight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#144048"/>
+      <stop offset="100%" stop-color="#0a2c34"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(30)">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00c2a8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="280" fill="url(#bg)"/>
+  <rect width="900" height="280" fill="url(#grid)"/>
+
+  <!-- ambient orbs -->
+  <circle cx="720" cy="70" r="90" fill="#00c2a8" opacity="0.07"/>
+  <circle cx="120" cy="220" r="70" fill="#00a8c2" opacity="0.08"/>
+
+  <!-- isometric cubes (3D) -->
+  <g transform="translate(620,55) scale(1.05)">
+    <!-- large cube -->
+    <polygon points="80,20 140,50 80,80 20,50" fill="url(#faceTop)" stroke="#00c2a8" stroke-opacity="0.35"/>
+    <polygon points="20,50 80,80 80,140 20,110" fill="url(#faceLeft)" stroke="#00c2a8" stroke-opacity="0.25"/>
+    <polygon points="80,80 140,50 140,110 80,140" fill="url(#faceRight)" stroke="#00c2a8" stroke-opacity="0.3"/>
+    <!-- mid cube -->
+    <g transform="translate(-95,35)">
+      <polygon points="60,15 105,38 60,61 15,38" fill="url(#faceTop)" stroke="#00c2a8" stroke-opacity="0.4"/>
+      <polygon points="15,38 60,61 60,106 15,83" fill="url(#faceLeft)" stroke="#00c2a8" stroke-opacity="0.28"/>
+      <polygon points="60,61 105,38 105,83 60,106" fill="url(#faceRight)" stroke="#00c2a8" stroke-opacity="0.32"/>
+    </g>
+    <!-- small accent cube -->
+    <g transform="translate(55,95)" filter="url(#glow)">
+      <polygon points="40,10 70,25 40,40 10,25" fill="url(#teal)" opacity="0.9"/>
+      <polygon points="10,25 40,40 40,70 10,55" fill="#007a72" opacity="0.95"/>
+      <polygon points="40,40 70,25 70,55 40,70" fill="#00a890" opacity="0.95"/>
+    </g>
+  </g>
+
+  <!-- circuit / ROV path accents -->
+  <g stroke="#00c2a8" stroke-width="1.5" fill="none" opacity="0.45">
+    <path d="M40 180 H120 L145 155 H210"/>
+    <circle cx="210" cy="155" r="4" fill="#00c2a8"/>
+    <path d="M40 200 H90 L110 220 H175"/>
+    <circle cx="175" cy="220" r="3.5" fill="#00e0b8"/>
+  </g>
+
+  <!-- typography -->
+  <text x="48" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#F2FFFC">Muddasir Faiyaj</text>
+  <text x="48" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#00C2A8" letter-spacing="1.5">FULL-STACK DEVELOPER  ·  ROBOTICS SOFTWARE ENGINEER</text>
+  <text x="48" y="168" font-family="Consolas, Monaco, monospace" font-size="13" fill="#9BB8B3">Next.js · Node · OpenCV · Embedded · MATE ROV</text>
+
+  <!-- pills -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#E8F4F2">
+    <rect x="48" y="195" rx="14" ry="14" width="118" height="28" fill="#0d3d42" stroke="#00c2a8" stroke-opacity="0.5"/>
+    <text x="107" y="213" text-anchor="middle">1st in Asia '26</text>
+    <rect x="178" y="195" rx="14" ry="14" width="132" height="28" fill="#0d3d42" stroke="#00c2a8" stroke-opacity="0.5"/>
+    <text x="244" y="213" text-anchor="middle">26th Worldwide</text>
+    <rect x="322" y="195" rx="14" ry="14" width="150" height="28" fill="#0d3d42" stroke="#00c2a8" stroke-opacity="0.5"/>
+    <text x="397" y="213" text-anchor="middle">muddasirfaiyaj.dev</text>
+  </g>
+</svg>
